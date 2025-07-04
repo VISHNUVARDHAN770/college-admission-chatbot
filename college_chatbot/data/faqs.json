@@ -1,0 +1,219 @@
+{
+  "faqs": [
+    {
+      "category": "good",
+      "question": "hello suggest me something",
+      "answer": "Yes I can suggest you this is college admission assistant u can ask any question about the colleges, fees structure and also college locations their numbers also"
+    },
+    {
+      "category": "admission",
+      "question": "What are the minimum requirements for undergraduate admission?",
+      "answer": "For undergraduate admission, you need a minimum GPA of 3.0, SAT scores between 1200-1400 or ACT scores between 26-32, high school transcript, two letters of recommendation, and a personal statement. International students also need TOEFL (minimum 80) or IELTS (minimum 6.5) scores."
+    },
+    {
+      "category": "admission",
+      "question": "When is the application deadline?",
+      "answer": "For Fall semester: Early Decision deadline is November 15, Regular Decision deadline is January 15. For Spring semester: October 15. For Summer session: April 1. We recommend applying early to ensure the best chance of admission and financial aid."
+    },
+    {
+      "category": "admission",
+      "question": "Do you accept transfer students?",
+      "answer": "Yes, we welcome transfer students! Transfer applicants need a minimum college GPA of 2.5, official transcripts from all colleges attended, and at least 24 completed credit hours. Transfer students can apply for both fall and spring semesters."
+    },
+    {
+      "category": "admission",
+      "question": "What standardized tests do you accept?",
+      "answer": "We accept SAT and ACT scores for undergraduate admission, and GRE or GMAT for graduate programs. For international students, we accept TOEFL and IELTS for English proficiency. Test scores should be sent directly from the testing agency."
+    },
+    {
+      "category": "programs",
+      "question": "What undergraduate programs do you offer?",
+      "answer": "We offer over 50 undergraduate programs including Business Administration, Computer Science, Engineering, Psychology, Biology, English Literature, Mathematics, Art, and many more. All programs are designed with hands-on learning and research opportunities."
+    },
+    {
+      "category": "programs",
+      "question": "Do you offer online degree programs?",
+      "answer": "Yes, we offer several online and hybrid degree programs, especially in Business, Education, and Information Technology. Our online programs maintain the same academic rigor and accreditation as our on-campus programs."
+    },
+    {
+      "category": "programs",
+      "question": "Can I double major or have a minor?",
+      "answer": "Absolutely! Many students pursue double majors or add minors to their degree. Our academic advisors will help you plan a course schedule that accommodates multiple areas of study while ensuring timely graduation."
+    },
+    {
+      "category": "financial",
+      "question": "How much does it cost to attend?",
+      "answer": "For undergraduates, annual tuition is $45,000, with room and board around $15,000. Total estimated cost including books and personal expenses is approximately $63,500. We offer substantial financial aid packages with an average aid of $25,000."
+    },
+    {
+      "category": "financial",
+      "question": "What financial aid options are available?",
+      "answer": "We offer need-based aid, merit scholarships, work-study programs, and flexible payment plans. Over 85% of our students receive some form of financial assistance. Complete your FAFSA early to maximize your aid opportunities."
+    },
+    {
+      "category": "financial",
+      "question": "Do you offer scholarships?",
+      "answer": "Yes! We offer academic merit scholarships, need-based grants, athletic scholarships, and special scholarships for various achievements. Scholarships range from $5,000 to full tuition. Most scholarships are automatically considered with your admission application."
+    },
+    {
+      "category": "student_life",
+      "question": "What housing options are available?",
+      "answer": "We have 12 residence halls offering traditional dorms, suite-style, and apartment-style living. First-year students are required to live on campus. Housing includes meal plans, utilities, WiFi, and access to study lounges and recreational facilities."
+    },
+    {
+      "category": "student_life",
+      "question": "What dining options are on campus?",
+      "answer": "We have 8 dining facilities including the main dining hall, cafes, food courts, and specialty restaurants. Meal plans are flexible and accommodate various dietary needs including vegetarian, vegan, kosher, and halal options."
+    },
+    {
+      "category": "student_life",
+      "question": "What activities and organizations are available?",
+      "answer": "We have over 100 student organizations including academic clubs, cultural groups, service organizations, Greek life, and special interest clubs. There are also intramural sports, performing arts groups, and leadership development programs."
+    },
+    {
+      "category": "academics",
+      "question": "What is the student-to-faculty ratio?",
+      "answer": "Our student-to-faculty ratio is 15:1, ensuring small class sizes and personalized attention. The average class size is 22 students, and 68% of our classes have fewer than 20 students."
+    },
+    {
+      "category": "academics",
+      "question": "Do you offer research opportunities for undergraduates?",
+      "answer": "Yes! We strongly encourage undergraduate research. Students can work with faculty on research projects, participate in summer research programs, and present their work at conferences. Many students co-author publications with faculty members."
+    },
+    {
+      "category": "academics",
+      "question": "What support services are available for academics?",
+      "answer": "We offer tutoring centers, writing center, academic advising, study groups, supplemental instruction, and disability services. Our library is open 24/7 during the semester with over 1,200 study spaces and extensive digital resources."
+    },
+    {
+      "category": "international",
+      "question": "What support is available for international students?",
+      "answer": "We have a dedicated International Student Services office that helps with visa issues, cultural adjustment, English language support, and social integration. We also offer orientation programs specifically for international students."
+    },
+    {
+      "category": "international",
+      "question": "Do I need to take English proficiency tests?",
+      "answer": "International students whose first language is not English must submit TOEFL (minimum 80) or IELTS (minimum 6.5) scores. Some students may be eligible for English language waivers based on their educational background."
+    },
+    {
+      "category": "career",
+      "question": "What career services do you provide?",
+      "answer": "Our Career Center offers career counseling, resume writing assistance, interview preparation, job search strategies, internship placement, and networking opportunities. We have strong relationships with employers and a 94% job placement rate within 6 months of graduation."
+    },
+    {
+      "category": "career",
+      "question": "Do you help with internships?",
+      "answer": "Yes! We have partnerships with over 500 companies and organizations for internship opportunities. Our Career Center helps students find internships, and many programs include internship requirements. About 80% of our students complete at least one internship."
+    },
+    {
+      "category": "campus",
+      "question": "How do I schedule a campus visit?",
+      "answer": "You can schedule campus visits through our admissions office at (555) 123-4570 or visits@excellenceuniversity.edu. We offer tours at 10:00 AM, 1:00 PM, and 3:00 PM daily. We recommend booking in advance, especially during peak times."
+    },
+    {
+      "category": "campus",
+      "question": "What transportation options are available?",
+      "answer": "Our campus is walkable and bike-friendly. We provide free shuttle service around campus and to nearby areas. The campus is also accessible by public transportation, and we offer limited parking for students with vehicles."
+    },
+    {
+      "category": "technology",
+      "question": "What technology resources are available?",
+      "answer": "We provide campus-wide WiFi, computer labs, smart classrooms, online learning platforms, and a comprehensive student portal. All students receive email accounts and access to software packages including Microsoft Office and Adobe Creative Suite."
+    },
+    {
+      "category": "health",
+      "question": "What health services are available on campus?",
+      "answer": "We have a full-service health center with medical staff, counseling services, mental health support, wellness programs, and 24/7 emergency services. Health insurance is required for all students, and we offer a student health insurance plan."
+    },
+    {
+      "category": "list_colleges",
+	    "question" : "show me the list of some top most universities?",
+      "answer": "That's a great question . So here are some top universities in AP VITAP UNIVERSITY,KL UNIVERSITY,GITAM UNIVERSITY , SVCE COLLEGE ,etc some other colleges."
+    },
+    {
+      "category": "college_number",
+	    "question": "Total how many colleges are there in ap?",
+      "answer": "That's a nice one . As you can see there are almost 500+ colleges on an average in AP"
+    },
+    {
+      "category": "more queries",
+	    "question": "How can we ",
+      "answer": "That's a nice one . As you can see there are almost 500+ colleges on an average in AP"
+    },
+    {
+    "category": "admission",
+    "question": "Can I apply to multiple programs at the same time?",
+    "answer": "Yes, you can apply to more than one program. However, you need to submit a separate application for each program and pay the application fee accordingly."
+  },
+  {
+    "category": "admission",
+    "question": "Is there any entrance exam for management courses?",
+    "answer": "Yes, for management programs like MBA, we accept scores from exams such as CAT, MAT, XAT, or our university’s own entrance test."
+  },
+  {
+    "category": "financial",
+    "question": "Are there application fees? If so, how much?",
+    "answer": "Yes, the application fee is ₹500 for domestic students and $50 for international students. Fee waivers are available for eligible students."
+  },
+  {
+    "category": "student_life",
+    "question": "Is there Wi-Fi available in hostels and campus?",
+    "answer": "Yes, our campus and all hostels are equipped with high-speed Wi-Fi available 24/7 for students and faculty."
+  },
+  {
+    "category": "student_life",
+    "question": "Are there any student mentorship programs?",
+    "answer": "Yes! First-year students are assigned mentors from senior batches and faculty to help them transition smoothly into college life."
+  },
+  {
+    "category": "academics",
+    "question": "How often are exams conducted?",
+    "answer": "We follow a semester system, with mid-semester and end-semester exams. Additional internal assessments are also conducted throughout the term."
+  },
+  {
+    "category": "academics",
+    "question": "Do you offer skill development or certification courses?",
+    "answer": "Yes, we offer value-added certification programs in areas like data science, digital marketing, AI/ML, soft skills, and foreign languages."
+  },
+  {
+    "category": "international",
+    "question": "Is on-campus accommodation available for international students?",
+    "answer": "Yes, international students are given priority in hostel allocation and can opt for single or shared occupancy based on availability."
+  },
+  {
+    "category": "career",
+    "question": "What kind of companies visit for campus placements?",
+    "answer": "Top recruiters include Infosys, TCS, Wipro, Deloitte, Accenture, Amazon, and many others across sectors like IT, finance, and consulting."
+  },
+  {
+    "category": "campus",
+    "question": "Is there a library on campus?",
+    "answer": "Yes, we have a state-of-the-art library with thousands of physical and digital resources, research journals, and group study areas."
+  },
+  {
+    "category": "campus",
+    "question": "Is the campus safe for students?",
+    "answer": "Absolutely! Our campus is monitored 24/7 by CCTV, and we have on-site security personnel, a women's safety cell, and emergency helplines."
+  },
+  {
+    "category": "technology",
+    "question": "Do you have a Learning Management System (LMS)?",
+    "answer": "Yes, our LMS allows students to access course materials, submit assignments, attend online classes, and interact with faculty virtually."
+  },
+  {
+    "category": "list_colleges",
+    "question": "Can you name top government colleges in Andhra Pradesh?",
+    "answer": "Some top government colleges include Andhra University, JNTU Kakinada, SVU Tirupati, and Government Polytechnic Colleges in each district."
+  },
+  {
+    "category": "college_number",
+    "question": "How many engineering colleges are in AP?",
+    "answer": "There are around 300+ engineering colleges in Andhra Pradesh, including government, private, and autonomous institutions."
+  },
+  {
+    "category": "more queries",
+    "question": "How can we get admission through sports quota?",
+    "answer": "To apply through the sports quota, you must submit certificates from recognized sports authorities. Selection depends on performance and seat availability."
+  }
+  ]
+}

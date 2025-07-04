@@ -1,0 +1,25 @@
+# Core dependencies
+streamlit
+transformers
+torch
+sentence-transformers
+numpy
+pandas
+scikit-learn
+
+# Natural Language Processing
+nltk
+spacy
+
+# Data handling
+PyYAML
+requests
+
+# Optional: For better performance (install if needed)
+# accelerate
+# faiss-cpu
+
+# Development dependencies (optional)
+# pytest
+# black
+# flake8

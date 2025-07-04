@@ -1,0 +1,59 @@
+{
+  "general_info": {
+    "name": "ABC University",
+    "established": "1990",
+    "location": "New York, USA",
+    "type": "Public University",
+    "accreditation": "Middle States Commission on Higher Education",
+    "motto": "Excellence in Education"
+  },
+  "important_dates": {
+    "fall_semester": {
+      "application_deadline": "March 1, 2024",
+      "semester_start": "August 15, 2024",
+      "semester_end": "December 15, 2024",
+      "registration_deadline": "July 15, 2024"
+    },
+    "spring_semester": {
+      "application_deadline": "October 1, 2024",
+      "semester_start": "January 15, 2025",
+      "semester_end": "May 15, 2025",
+      "registration_deadline": "December 1, 2024"
+    },
+    "summer_session": {
+      "application_deadline": "March 15, 2024",
+      "semester_start": "June 1, 2024",
+      "semester_end": "August 1, 2024"
+    }
+  },
+  "contact_info": {
+    "admission_office": {
+      "email": "admissions@college.edu",
+      "phone": "(555) 123-4567",
+      "fax": "(555) 123-4568",
+      "address": "123 College Street, Campus City, State 12345"
+    },
+    "financial_aid": {
+      "email": "finaid@college.edu",
+      "phone": "(555) 123-4569"
+    },
+    "registrar": {
+      "email": "registrar@college.edu",
+      "phone": "(555) 123-4570"
+    }
+  },
+  "office_hours": {
+    "admission_office": "Monday-Friday, 9 AM - 5 PM",
+    "financial_aid": "Monday-Friday, 8 AM - 4 PM",
+    "registrar": "Monday-Friday, 8 AM - 5 PM"
+  },
+  "campus_info": {
+    "size": "250 acres",
+    "student_population": "15,000",
+    "faculty_to_student_ratio": "1:15",
+    "housing": "On-campus housing available",
+    "dining": "Multiple dining options on campus",
+    "library": "State-of-the-art library with digital resources",
+    "sports": "NCAA Division II athletics"
+  }
+}

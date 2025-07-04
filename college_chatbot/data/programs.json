@@ -1,0 +1,260 @@
+
+{
+  "programs": [
+    {
+      "name": "Computer Science",
+      "duration": "4 years",
+      "degree": "Bachelor of Science",
+      "description": "Comprehensive program covering programming, algorithms, data structures, software engineering, and emerging technologies.",
+      "career_prospects": "Software Developer, Data Scientist, Systems Analyst, Web Developer, AI Engineer",
+      "requirements": {
+        "math": "Advanced mathematics including calculus",
+        "science": "Physics or chemistry background preferred",
+        "programming": "No prior experience required"
+      },
+      "specializations": ["Artificial Intelligence", "Cybersecurity", "Web Development", "Mobile App Development"]
+    },
+    {
+      "name": "Business Administration",
+      "duration": "4 years",
+      "degree": "Bachelor of Business Administration",
+      "description": "Develops leadership and management skills with focus on finance, marketing, operations, and strategic planning.",
+      "career_prospects": "Business Analyst, Marketing Manager, Financial Advisor, Operations Manager, Consultant",
+      "requirements": {
+        "math": "Basic mathematics and statistics",
+        "communication": "Strong written and verbal communication skills",
+        "leadership": "Leadership experience preferred but not required"
+      },
+      "specializations": ["Finance", "Marketing", "Human Resources", "International Business", "Entrepreneurship"]
+    },
+    {
+      "name": "Engineering",
+      "duration": "4 years",
+      "degree": "Bachelor of Engineering",
+      "description": "Multiple engineering disciplines with hands-on laboratory experience and real-world project applications.",
+      "career_prospects": "Design Engineer, Project Manager, Research Engineer, Consultant, Technical Specialist",
+      "requirements": {
+        "math": "Advanced mathematics including calculus and differential equations",
+        "science": "Strong foundation in physics and chemistry",
+        "problem_solving": "Analytical and problem-solving skills"
+      },
+      "specializations": ["Mechanical", "Electrical", "Civil", "Chemical", "Biomedical"]
+    },
+    {
+      "name": "Psychology",
+      "duration": "4 years",
+      "degree": "Bachelor of Arts/Science",
+      "description": "Study of human behavior, mental processes, research methods, and therapeutic approaches.",
+      "career_prospects": "Clinical Psychologist, Counselor, Research Assistant, HR Specialist, Social Worker",
+      "requirements": {
+        "statistics": "Basic statistics and research methods",
+        "communication": "Strong interpersonal skills",
+        "empathy": "Interest in helping others"
+      },
+      "specializations": ["Clinical Psychology", "Developmental Psychology", "Social Psychology", "Cognitive Psychology"]
+    },
+    {
+      "name": "Biology",
+      "duration": "4 years",
+      "degree": "Bachelor of Science",
+      "description": "Comprehensive study of living organisms, from molecular biology to ecosystem dynamics.",
+      "career_prospects": "Research Scientist, Laboratory Technician, Healthcare Professional, Environmental Consultant",
+      "requirements": {
+        "science": "Strong background in biology and chemistry",
+        "math": "Statistics and basic calculus",
+        "laboratory": "Interest in hands-on laboratory work"
+      },
+      "specializations": ["Molecular Biology", "Ecology", "Pre-Med", "Biotechnology"]
+    },
+    {
+      "name": "English Literature",
+      "duration": "4 years",
+      "degree": "Bachelor of Arts",
+      "description": "Critical analysis of literature, creative writing, and communication skills development.",
+      "career_prospects": "Writer, Editor, Teacher, Communications Specialist, Content Creator",
+      "requirements": {
+        "reading": "Strong reading comprehension",
+        "writing": "Excellent writing skills",
+        "analysis": "Critical thinking abilities"
+      },
+      "specializations": ["Creative Writing", "Literary Criticism", "Technical Communication", "Digital Media"]
+    },
+    {
+      "name": "Mathematics",
+      "duration": "4 years",
+      "degree": "Bachelor of Science",
+      "description": "Pure and applied mathematics with emphasis on problem-solving and analytical thinking.",
+      "career_prospects": "Data Analyst, Actuary, Teacher, Statistician, Financial Analyst",
+      "requirements": {
+        "math": "Advanced high school mathematics",
+        "logic": "Strong logical reasoning skills",
+        "analysis": "Abstract thinking abilities"
+      },
+      "specializations": ["Applied Mathematics", "Statistics", "Pure Mathematics", "Mathematical Modeling"]
+    },
+    {
+      "name": "Art and Design",
+      "duration": "4 years",
+      "degree": "Bachelor of Fine Arts",
+      "description": "Creative expression through various media including digital art, traditional techniques, and design principles.",
+      "career_prospects": "Graphic Designer, Art Director, Illustrator, Gallery Curator, Art Teacher",
+      "requirements": {
+        "creativity": "Portfolio of creative work",
+        "software": "Basic knowledge of design software helpful",
+        "visual": "Strong visual and spatial awareness"
+      },
+      "specializations": ["Graphic Design", "Digital Art", "Traditional Fine Arts", "Art History"]
+    }
+  ],
+  "graduate": [
+    {
+      "name": "Master of Computer Science",
+      "duration": "2 years",
+      "degree": "Master of Science",
+      "description": "Advanced computer science concepts with research opportunities and specialization tracks.",
+      "career_prospects": "Senior Software Engineer, Research Scientist, Technical Lead, AI Specialist",
+      "requirements": {
+        "bachelor_degree": "Computer Science or related field",
+        "gpa": "Minimum 3.3 GPA",
+        "gre": "GRE scores required",
+        "experience": "Programming experience required"
+      },
+      "specializations": ["Machine Learning", "Cybersecurity", "Software Engineering", "Data Science"]
+    },
+    {
+      "name": "Master of Business Administration (MBA)",
+      "duration": "2 years",
+      "degree": "Master of Business Administration",
+      "description": "Advanced business education with leadership development and strategic thinking focus.",
+      "career_prospects": "Executive Manager, Business Consultant, Investment Banker, Entrepreneur",
+      "requirements": {
+        "bachelor_degree": "Any bachelor's degree",
+        "gmat": "GMAT or GRE scores required",
+        "experience": "2+ years work experience preferred",
+        "leadership": "Leadership experience valued"
+      },
+      "specializations": ["Finance", "Marketing", "Operations", "Healthcare Management", "Technology Management"]
+    },
+    {
+      "name": "Master of Engineering",
+      "duration": "1.5-2 years",
+      "degree": "Master of Engineering",
+      "description": "Advanced engineering principles with focus on practical applications and innovation.",
+      "career_prospects": "Senior Engineer, Engineering Manager, Technical Consultant, R&D Specialist",
+      "requirements": {
+        "bachelor_degree": "Engineering or related technical field",
+        "gpa": "Minimum 3.0 GPA",
+        "gre": "GRE scores may be required",
+        "math": "Strong mathematical background"
+      },
+      "specializations": ["Mechanical", "Electrical", "Civil", "Environmental", "Biomedical"]
+    },
+    {
+      "name": "Master of Education",
+      "duration": "1-2 years",
+      "degree": "Master of Education",
+      "description": "Advanced teaching methods, educational leadership, and curriculum development.",
+      "career_prospects": "School Administrator, Curriculum Specialist, Educational Consultant, Teacher Leader",
+      "requirements": {
+        "bachelor_degree": "Education or subject area degree",
+        "teaching": "Teaching experience preferred",
+        "certification": "Valid teaching license may be required"
+      },
+      "specializations": ["Educational Leadership", "Curriculum and Instruction", "Special Education", "Educational Technology"]
+    },
+    {
+      "name": "Master of Public Health",
+      "duration": "2 years",
+      "degree": "Master of Public Health",
+      "description": "Population health, epidemiology, health policy, and community health promotion.",
+      "career_prospects": "Public Health Officer, Epidemiologist, Health Policy Analyst, Community Health Director",
+      "requirements": {
+        "bachelor_degree": "Any bachelor's degree, science background preferred",
+        "gpa": "Minimum 3.0 GPA",
+        "gre": "GRE scores required",
+        "experience": "Healthcare or research experience preferred"
+      },
+      "specializations": ["Epidemiology", "Health Policy", "Environmental Health", "Global Health"]
+    },
+    {
+      "name": "Master of Fine Arts",
+      "duration": "2-3 years",
+      "degree": "Master of Fine Arts",
+      "description": "Advanced creative practice with intensive studio work and professional development.",
+      "career_prospects": "Professional Artist, Art Instructor, Gallery Director, Creative Director",
+      "requirements": {
+        "bachelor_degree": "Art or related creative field",
+        "portfolio": "Strong portfolio of creative work",
+        "statement": "Artist statement required"
+      },
+      "specializations": ["Studio Art", "Digital Media", "Art Education", "Arts Administration"]
+    }
+  ],
+  "doctoral": [
+    {
+      "name": "Doctor of Philosophy (Ph.D.) in Computer Science",
+      "duration": "4-6 years",
+      "degree": "Doctor of Philosophy",
+      "description": "Research-intensive program leading to expertise in specialized computer science areas.",
+      "career_prospects": "University Professor, Research Scientist, Principal Engineer, Technical Director",
+      "requirements": {
+        "master_degree": "Master's in Computer Science or related field",
+        "gpa": "Minimum 3.5 GPA",
+        "gre": "GRE scores required",
+        "research": "Research experience required"
+      },
+      "specializations": ["Artificial Intelligence", "Machine Learning", "Computer Systems", "Theoretical CS"]
+    },
+    {
+      "name": "Doctor of Education (Ed.D.)",
+      "duration": "3-5 years",
+      "degree": "Doctor of Education",
+      "description": "Practice-focused doctoral program for educational leaders and administrators.",
+      "career_prospects": "Superintendent, University Administrator, Policy Maker, Educational Researcher",
+      "requirements": {
+        "master_degree": "Master's in Education or related field",
+        "experience": "Significant educational leadership experience",
+        "gpa": "Minimum 3.5 GPA"
+      },
+      "specializations": ["Educational Leadership", "Higher Education Administration", "Educational Policy"]
+    }
+  ],
+  "certificate_programs": [
+    {
+      "name": "Data Analytics Certificate",
+      "duration": "6 months",
+      "type": "Professional Certificate",
+      "description": "Intensive program covering data analysis tools, statistical methods, and visualization techniques.",
+      "career_prospects": "Data Analyst, Business Intelligence Specialist, Market Research Analyst",
+      "requirements": {
+        "education": "High school diploma or equivalent",
+        "math": "Basic mathematics and statistics",
+        "computer": "Basic computer skills"
+      }
+    },
+    {
+      "name": "Digital Marketing Certificate",
+      "duration": "4 months",
+      "type": "Professional Certificate",
+      "description": "Modern marketing strategies including social media, SEO, content marketing, and analytics.",
+      "career_prospects": "Digital Marketing Specialist, Social Media Manager, Content Strategist",
+      "requirements": {
+        "education": "High school diploma or equivalent",
+        "communication": "Strong communication skills",
+        "creativity": "Creative thinking abilities"
+      }
+    },
+    {
+      "name": "Project Management Certificate",
+      "duration": "3 months",
+      "type": "Professional Certificate",
+      "description": "Project management methodologies, tools, and best practices for various industries.",
+      "career_prospects": "Project Manager, Program Coordinator, Operations Manager",
+      "requirements": {
+        "education": "High school diploma or equivalent",
+        "experience": "Some work experience preferred",
+        "organization": "Strong organizational skills"
+      }
+    }
+  ]
+}

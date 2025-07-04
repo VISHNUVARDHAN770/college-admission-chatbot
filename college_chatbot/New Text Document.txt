@@ -1,0 +1,24 @@
+import unittest
+from chatbot.llm_handler import LLMHandler
+from chatbot.knowledge_base import KnowledgeBase
+
+class TestChatbot(unittest.TestCase):
+    def setUp(self):
+        self.llm_handler = LLMHandler()
+        self.knowledge_base = KnowledgeBase()
+    
+    def test_knowledge_base_loading(self):
+        """Test if knowledge base loads correctly"""
+        knowledge = self.llm_handler.load_knowledge_base()
+        self.assertIn('college_info', knowledge)
+        self.assertIn('faqs', knowledge)
+        self.assertIn('programs', knowledge)
+    
+    def test_similarity_search(self):
+        """Test similarity search functionality"""
+        results = self.knowledge_base.search_similar("admission requirements")
+        self.assertTrue(len(results) > 0)
+        self.assertTrue(results[0]['similarity'] > 0.3)
+
+if __name__ == '__main__':
+    unittest.main()
